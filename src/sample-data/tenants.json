@@ -1,0 +1,334 @@
+{
+  "tenants": [
+    {
+      "id": "a1b2c3d4-0001-4000-8000-000000000001",
+      "name": "Trường THPT Hà Huy Giáp",
+      "slug": "thpt-ha-huy-giap",
+      "school_level": "thpt",
+      "province_code": "92",
+      "is_active": true,
+      "is_recruiting": true,
+      "recruiting_note": "Cần tuyển giáo viên Toán, Vật Lý năm học 2026-2027",
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/1565C0/ffffff?text=HHG",
+        "theme_color": "#1565C0",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "123 Lý Tự Trọng",
+        "ward": "Phường An Lạc",
+        "district": "Ninh Kiều",
+        "province": "Cần Thơ"
+      },
+      "contact": {
+        "phone": "0292 3812 345",
+        "email": "contact@thpt-hahuygap.edu.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 68,
+        "student_count": 1850,
+        "class_count": 42
+      },
+      "created_at": "2024-08-01T07:00:00Z"
+    },
+    {
+      "id": "a1b2c3d4-0002-4000-8000-000000000002",
+      "name": "Trường THPT Chuyên Lê Hồng Phong",
+      "slug": "thpt-chuyen-le-hong-phong",
+      "school_level": "thpt",
+      "province_code": "79",
+      "is_active": true,
+      "is_recruiting": false,
+      "recruiting_note": null,
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/B71C1C/ffffff?text=LHP",
+        "theme_color": "#B71C1C",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "235 Nguyễn Văn Cừ",
+        "ward": "Phường 4",
+        "district": "Quận 5",
+        "province": "TP. Hồ Chí Minh"
+      },
+      "contact": {
+        "phone": "028 3835 6353",
+        "email": "contact@lehongphong.edu.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 112,
+        "student_count": 2400,
+        "class_count": 60
+      },
+      "created_at": "2024-08-05T07:00:00Z"
+    },
+    {
+      "id": "a1b2c3d4-0003-4000-8000-000000000003",
+      "name": "Trường THCS Nguyễn Du",
+      "slug": "thcs-nguyen-du",
+      "school_level": "thcs",
+      "province_code": "01",
+      "is_active": true,
+      "is_recruiting": true,
+      "recruiting_note": "Cần tuyển giáo viên Ngữ Văn và Tiếng Anh, ưu tiên có kinh nghiệm",
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/2E7D32/ffffff?text=ND",
+        "theme_color": "#2E7D32",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "17 Hàng Gai",
+        "ward": "Phường Hàng Gai",
+        "district": "Hoàn Kiếm",
+        "province": "Hà Nội"
+      },
+      "contact": {
+        "phone": "024 3825 4411",
+        "email": "contact@thcs-nguyendu-hn.edu.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 45,
+        "student_count": 980,
+        "class_count": 28
+      },
+      "created_at": "2024-08-10T07:00:00Z"
+    },
+    {
+      "id": "a1b2c3d4-0004-4000-8000-000000000004",
+      "name": "Trường Đại học Cần Thơ",
+      "slug": "dai-hoc-can-tho",
+      "school_level": "university",
+      "province_code": "92",
+      "is_active": true,
+      "is_recruiting": true,
+      "recruiting_note": "Tuyển giảng viên Khoa CNTT và Khoa Kinh tế, yêu cầu trình độ Thạc sĩ trở lên",
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/E65100/ffffff?text=CTU",
+        "theme_color": "#E65100",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "Khu II, đường 3/2",
+        "ward": "Phường Xuân Khánh",
+        "district": "Ninh Kiều",
+        "province": "Cần Thơ"
+      },
+      "contact": {
+        "phone": "0292 3872 728",
+        "email": "dhct@ctu.edu.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 1240,
+        "student_count": 42000,
+        "class_count": 0
+      },
+      "created_at": "2024-07-15T07:00:00Z"
+    },
+    {
+      "id": "a1b2c3d4-0005-4000-8000-000000000005",
+      "name": "Trường THCS Trần Phú",
+      "slug": "thcs-tran-phu",
+      "school_level": "thcs",
+      "province_code": "48",
+      "is_active": true,
+      "is_recruiting": false,
+      "recruiting_note": null,
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/6A1B9A/ffffff?text=TP",
+        "theme_color": "#6A1B9A",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "78 Trần Phú",
+        "ward": "Phường Hải Châu 1",
+        "district": "Hải Châu",
+        "province": "Đà Nẵng"
+      },
+      "contact": {
+        "phone": "0236 3822 901",
+        "email": "contact@thcs-tranphu-dn.edu.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 52,
+        "student_count": 1120,
+        "class_count": 32
+      },
+      "created_at": "2024-08-12T07:00:00Z"
+    },
+    {
+      "id": "a1b2c3d4-0006-4000-8000-000000000006",
+      "name": "Trường THPT Quốc Học Huế",
+      "slug": "thpt-quoc-hoc-hue",
+      "school_level": "thpt",
+      "province_code": "46",
+      "is_active": true,
+      "is_recruiting": true,
+      "recruiting_note": "Cần tuyển giáo viên Lịch Sử, Địa Lý và Sinh học cho năm học mới",
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/00695C/ffffff?text=QH",
+        "theme_color": "#00695C",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "12 Lê Lợi",
+        "ward": "Phường Vĩnh Ninh",
+        "district": "Thành phố Huế",
+        "province": "Thừa Thiên Huế"
+      },
+      "contact": {
+        "phone": "0234 3822 656",
+        "email": "contact@quochoc.edu.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 89,
+        "student_count": 2100,
+        "class_count": 54
+      },
+      "created_at": "2024-08-03T07:00:00Z"
+    },
+    {
+      "id": "a1b2c3d4-0007-4000-8000-000000000007",
+      "name": "Trường Đại học Bách Khoa Hà Nội",
+      "slug": "dai-hoc-bach-khoa-ha-noi",
+      "school_level": "university",
+      "province_code": "01",
+      "is_active": true,
+      "is_recruiting": false,
+      "recruiting_note": null,
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/0D47A1/ffffff?text=HUST",
+        "theme_color": "#0D47A1",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "1 Đại Cồ Việt",
+        "ward": "Phường Bách Khoa",
+        "district": "Hai Bà Trưng",
+        "province": "Hà Nội"
+      },
+      "contact": {
+        "phone": "024 3869 2009",
+        "email": "bkhn@hust.edu.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 1850,
+        "student_count": 56000,
+        "class_count": 0
+      },
+      "created_at": "2024-07-20T07:00:00Z"
+    },
+    {
+      "id": "a1b2c3d4-0008-4000-8000-000000000008",
+      "name": "Trường THPT Năng Khiếu TP.HCM",
+      "slug": "thpt-nang-khieu-tphcm",
+      "school_level": "thpt",
+      "province_code": "79",
+      "is_active": true,
+      "is_recruiting": true,
+      "recruiting_note": "Tuyển giáo viên Toán và Tin học, ưu tiên ứng viên có thành tích bồi dưỡng HSG",
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/558B2F/ffffff?text=NK",
+        "theme_color": "#558B2F",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "1 Đinh Tiên Hoàng",
+        "ward": "Phường Bến Nghé",
+        "district": "Quận 1",
+        "province": "TP. Hồ Chí Minh"
+      },
+      "contact": {
+        "phone": "028 3829 8886",
+        "email": "contact@ptnk.edu.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 74,
+        "student_count": 1600,
+        "class_count": 40
+      },
+      "created_at": "2024-08-08T07:00:00Z"
+    },
+    {
+      "id": "a1b2c3d4-0009-4000-8000-000000000009",
+      "name": "Trường THCS Lý Tự Trọng",
+      "slug": "thcs-ly-tu-trong",
+      "school_level": "thcs",
+      "province_code": "89",
+      "is_active": true,
+      "is_recruiting": true,
+      "recruiting_note": "Cần tuyển giáo viên GDCD và Âm nhạc",
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/F57F17/ffffff?text=LTT",
+        "theme_color": "#F57F17",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "45 Lý Tự Trọng",
+        "ward": "Phường Mỹ Long",
+        "district": "Long Xuyên",
+        "province": "An Giang"
+      },
+      "contact": {
+        "phone": "0296 3852 234",
+        "email": "contact@thcs-lytutong-ag.edu.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 38,
+        "student_count": 760,
+        "class_count": 22
+      },
+      "created_at": "2024-08-15T07:00:00Z"
+    },
+    {
+      "id": "a1b2c3d4-0010-4000-8000-000000000010",
+      "name": "Trường Đại học Đà Nẵng",
+      "slug": "dai-hoc-da-nang",
+      "school_level": "university",
+      "province_code": "48",
+      "is_active": true,
+      "is_recruiting": true,
+      "recruiting_note": "Tuyển giảng viên nhiều khoa: Kỹ thuật, Kinh tế, Ngoại ngữ. Yêu cầu Tiến sĩ hoặc đang nghiên cứu sinh",
+      "settings": {
+        "logo_url": "https://placehold.co/120x120/37474F/ffffff?text=UD",
+        "theme_color": "#37474F",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "academic_year_start_month": 9
+      },
+      "address": {
+        "street": "41 Lê Duẩn",
+        "ward": "Phường Hải Châu 1",
+        "district": "Hải Châu",
+        "province": "Đà Nẵng"
+      },
+      "contact": {
+        "phone": "0236 3822 041",
+        "email": "dhdn@udn.vn",
+        "fanpage": "https://www.facebook.com/"
+      },
+      "stats": {
+        "teacher_count": 980,
+        "student_count": 35000,
+        "class_count": 0
+      },
+      "created_at": "2024-07-25T07:00:00Z"
+    }
+  ]
+}

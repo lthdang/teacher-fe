@@ -1,5 +1,8 @@
 export const ROUTE_PATHS = {
   HOME: '/',
+  LOGIN: '/login',
+  SIGN_UP: '/sign-up',
+  REGISTER: '/register',
   COURSES: '/courses',
   COURSE_DETAIL: '/courses/:id',
   SCHEDULE: '/schedule',
@@ -10,6 +13,8 @@ export const ROUTE_PATHS = {
   SETTINGS: '/settings',
   SYSTEM_STATUS: '/system/status',
   SYSTEM_API_DOCS: '/system/api-docs',
+  SCHOOL_DETAIL: '/schools/:id',
+  SCHOOL_APPLY: '/schools/:id/apply',
   // Reference link to Back-Office admin system
   BACKOFFICE_ADMIN: 'http://localhost:5173/admin',
 } as const;
